@@ -1,0 +1,22 @@
+npm init
+npm install express --save
+npm install socket.io--save
+npm install nodemon--save
+npm install mysql--save
+npm install cors--save
+
+Bên vue:
+//npm install vue-socket.io --save
+
+//import VueSocketIO from 'vue-socket.io';
+
+//Vue.config.productionTip = false
+//Vue.use(new VueSocketIO({
+//    connection: 'http://localhost:3000',
+//}))
+
+npm install --save socket.io-client
+
+Laravel:
+
+//composer require barryvdh/laravel-cors
